@@ -1,0 +1,74 @@
+{
+    "detalles":[
+        {
+            "categoria": "Infantiles", 
+            "producto": "Moda", 
+            "disponible": "si", 
+            "temporada": "Verano", 
+            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis ex placeat accusamus molestiae inventore voluptate a ratione nemo quidem perspiciatis."
+        },
+        {
+            "categoria": "Infantiles", 
+            "producto": "Juguetes", 
+            "disponible": "si", 
+            "temporada": "Navidad", 
+            "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas iure esse molestias, pariatur dolore ratione sunt numquam blanditiis at ad."
+        },
+        {
+            "categoria": "Damas", 
+            "producto": "Moda", 
+            "disponible": "si", 
+            "temporada": "Verano", 
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore delectus ratione incidunt quam iure id aliquam necessitatibus sit corrupti? Commodi."
+        },
+        {
+            "categoria": "Damas", 
+            "producto": "Maquillaje", 
+            "disponible": "si", 
+            "temporada": "Verano", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio adipisci expedita rem sunt soluta quis corrupti dicta architecto tempora illo."
+        },
+        {
+            "categoria": "Caballeros", 
+            "producto": "Moda", 
+            "disponible": "si", 
+            "temporada": "Verano", 
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magni earum rerum deserunt similique unde ad? Aspernatur culpa aliquam accusamus."
+        },
+        {
+            "categoria": "Caballeros", 
+            "producto": "Tecnología", 
+            "disponible": "si", 
+            "temporada": "Todas", 
+            "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nihil consequuntur consectetur aspernatur perspiciatis omnis repellendus excepturi sit similique dolores."
+        },
+        {
+            "categoria": "Hogar", 
+            "producto": "Línea blanca", 
+            "disponible": "si", 
+            "temporada": "Todas", 
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit atque unde impedit animi eaque odit nisi ratione eos perspiciatis vitae."
+        },
+        {
+            "categoria": "Hogar", 
+            "producto": "Muebles", 
+            "disponible": "si", 
+            "temporada": "Todas", 
+            "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis, sequi? Nobis veniam optio pariatur maiores tenetur incidunt animi repellendus illum?"
+        },
+        {
+            "categoria": "Deportes", 
+            "producto": "Accesorios", 
+            "disponible": "si", 
+            "temporada": "Todas", 
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit inventore ex doloribus vitae, commodi natus ducimus quidem excepturi magni reiciendis!"
+        },
+        {
+            "categoria": "Deportes", 
+            "producto": "Maquinas", 
+            "disponible": "si", 
+            "temporada": "Todas", 
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id enim modi beatae ullam labore aperiam minima architecto animi ipsa quae!"
+        }
+    ]
+}

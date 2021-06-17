@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infoCatalogo>
+    <categoria>
+        <codigo>
+            I-4578
+        </codigo>
+        <nombre>
+            Infantiles
+        </nombre>
+        <imagen>
+            kids.jpg
+        </imagen>
+        <descrition>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem sequi ratione officiis necessitatibus iusto laboriosam itaque similique quaerat, quia ipsum!
+        </descrition>
+    </categoria>
+    <categoria>
+        <codigo>
+            D-4585
+        </codigo>
+        <nombre>
+            Damas
+        </nombre>
+        <imagen>
+            women.jpg
+        </imagen>
+        <descrition>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, quisquam. Dolore perspiciatis error ipsa aliquam saepe, quisquam iusto provident consequatur!
+        </descrition>
+    </categoria>
+    <categoria>
+        <codigo>
+            C-4596
+        </codigo>
+        <nombre>
+            Caballeros
+        </nombre>
+        <imagen>
+            men.jpg
+        </imagen>
+        <descrition>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex sapiente eum incidunt consequuntur repellat totam eveniet a veritatis cupiditate quae.
+        </descrition>
+    </categoria>
+    <categoria>
+        <codigo>
+            H-8576
+        </codigo>
+        <nombre>
+            Hogar
+        </nombre>
+        <imagen>
+            house.jpg
+        </imagen>
+        <descrition>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tenetur non voluptatem doloribus tempore rerum, dolores atque blanditiis sequi quasi!
+        </descrition>
+    </categoria>
+    <categoria>
+        <codigo>
+            X-8675
+        </codigo>
+        <nombre>
+            Deportes
+        </nombre>
+        <imagen>
+            sports.jpg
+        </imagen>
+        <descrition>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe praesentium incidunt sunt, quia nemo at nisi veniam dolor totam quasi?
+        </descrition>
+    </categoria>
+</infoCatalogo>
