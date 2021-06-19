@@ -20,11 +20,13 @@ function listarCategorias(xml){
     let names = document.getElementById('listarCategorias');
         for (let i=0; i<category.length; i++) {
             let catli = document.createElement('li');
-            let catNombre = document.createElement('a');
-            catNombre.innerHTML = category[i].getElementsByTagName('nombre')[0].textContent;
-            $(catNombre).attr("href","#");
+            let catLink = document.createElement('a');
+            let catNombre = document.createElement('h4');
+            catLink.innerHTML = category[i].getElementsByTagName('nombre')[0].textContent;
+            $(catLink).attr("href","#");
 
             names.appendChild(catli);
-            catli.appendChild(catNombre);
+            catli.appendChild(catLink);
+            catLink.appendChild(catNombre);
         }
 }
