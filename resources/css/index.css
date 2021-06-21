@@ -1,0 +1,107 @@
+header {
+    width: 100%;
+    background-color: linen;
+    font-size: xx-large;
+    padding: 10px;
+    text-align: center;
+}
+
+#listarCategorias {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightcyan;
+    padding: 5px;
+    height: 50px;
+    align-items: center;
+}
+
+#listarCategorias > li > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#listarCategorias > li > a:hover {
+    color: deeppink;
+    font-size: large;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+#principal{
+    width: 100%;
+    text-align: center;
+}
+
+#principal >section>img {
+    width: 40%;
+    margin: 10px;
+}
+
+#catalogo {
+    width: 100%;
+}
+
+#catalogo >h2 {
+    text-align: center;
+}
+
+#catalogo >section {
+    display: inline-block;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px black;
+    padding: 5px;
+    background-color: white;
+}
+
+#catalogo >section >section {
+    display: inline-flex;
+    align-items: flex-end;
+}
+
+#catalogo >section >section >h3 {
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 760px){
+    #principal >section >p {
+        padding-right: 25%;
+        padding-left: 25%;
+    }
+    #catalogo >section >span {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    header{
+        font-size: x-large;
+    }
+    #principal >section>img {
+        display: none;
+    }
+    #principal >section >p {
+        padding-right: 20%;
+        padding-left: 20%;
+    }
+    #catalogo >section >h5 {
+        display: none;
+    }
+    #catalogo >section >section {
+        display: block;
+        text-align: center;
+    }
+    #catalogo >section {
+        width: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+}
