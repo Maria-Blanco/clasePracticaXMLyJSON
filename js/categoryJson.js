@@ -35,8 +35,6 @@ function jSonDetails (jsonObj){
         let desc = document.createElement('p');
         desc.innerHTML = element.descripcion;
 
-        let cardCont = document.createElement('section');
-
         let card = document.createElement('section');
 
         let up = document.createElement('section')
